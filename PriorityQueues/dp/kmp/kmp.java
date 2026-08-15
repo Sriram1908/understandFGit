@@ -4,6 +4,7 @@ import java.util.*;
 
 public class kmp {
 
+	// added something to check is git working
     static void main()
     {
         String text = "ABCABCABCD";
